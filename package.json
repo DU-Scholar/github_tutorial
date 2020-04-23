@@ -1,0 +1,19 @@
+{
+  "name": "github-tutorial",
+  "version": "1.0.0",
+  "description": "github tutorial",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev books",
+    "build": "vuepress build books",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kazuki-komori",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^1.4.1"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-search": "^1.4.1"
+  }
+}
