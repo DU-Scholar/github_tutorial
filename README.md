@@ -2,6 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b856c9ab-b9a8-41c4-8a54-5154e98e3c13/deploy-status)](https://app.netlify.com/sites/scholar-github-tutorial/deploys)
 
+https://scholar-github-tutorial.netlify.app
 
 ## gitを用いた共同開発のフロー
 
