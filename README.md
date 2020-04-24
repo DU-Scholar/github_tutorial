@@ -25,7 +25,3 @@ npm install
 ```
 npm run dev 
 ```
-
-### author
-
-小森 一輝 
