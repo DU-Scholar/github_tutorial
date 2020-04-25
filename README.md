@@ -25,3 +25,7 @@ npm install
 ```
 npm run dev 
 ```
+
+## Search system
+
+Algoliaを使用（1日1回更新されます）  
