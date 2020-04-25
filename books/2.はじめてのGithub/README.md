@@ -189,3 +189,8 @@ $ git push origin {{作業しいていたブランチ名}}
 その後、[こちら](https://github.com/DU-Scholar/github-test)にアクセスし、 `Conpare & pull request` という緑色のボタンを押して、
 タイトルとどのような内容を変更したのかを書き、 `create pull request` ボタンでプルリクを作ることが出来ます。
 
+プロジェクトに参加〜プルリクを作成までの流れは以上となります :tada:
+
+
+## 2度目以降の作業
+
