@@ -11,6 +11,33 @@
 $ git clone {{リポジトリのURL}}
 ```
 
+## remote
+
+リモートの状態を確認する。
+```zsh
+$ git remote -v
+```
+
+リモートを追加する。
+```zsh
+$ git remote add {{リモートに付けたい名前}} {{URL}}
+```
+
+リモートを削除する。
+```zsh
+$ git remote rm {{削除したいリモートの名前}}
+```
+
+リモートのURLを変更。
+```zsh
+$ git remote set-url origin {{新しいURL}}
+```
+
+リモートの名前を変更。
+```zsh
+$ git remote rename {{古い名前}} {{新しい名前}}
+```
+
 ## status
 
 自分のファイルの変更状態を取得する。
@@ -19,7 +46,7 @@ $ git status
 ```
 ## add
 
-gitが追跡していないファイルを追跡させる。
+ステージング状態にファイルを移動させる。
 ```zsh
 $ git add {{ファイル名}}
 ```
