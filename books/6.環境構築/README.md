@@ -9,11 +9,15 @@ Windowsの方は[こちら](/6.環境構築/#Windows版)
 Macの方は[こちら](/6.環境構築/#Mac版)
 
 ## Windows版
+【windowsの方】
+windowsにはgitの環境がインストールされていません。
+なので、git公式ホームページからインストールする必要があります。
+こちらも、progateの「【windows版】gitの環境構築」で分かりやすくまとめられているので、少し手順は多いですが、「1, Gitのインストール」〜「3, Githubの設定」までやってみましょう！
+
 
 ## Mac版
+【macの方】
+MacOSにはデフォルトでgitがインストールされているので、インストールの必要はありません。
+progateの「【mac版】gitの環境構築」に分かりやすくまとめてあるので、そちらの
+「1, 環境構築の準備」〜「4, GitHubの設定」までをやりましょう！
 
-<!-- TODO 環境構築の内容を移動する
-BODY https://docs.google.com/document/d/1zpENlbsL8TobIg1pS8zcIPTMGzNrcZ_q9fVvBxy-Wew/edit?usp=sharing
-
-     このドキュメントの「Githubの登録・環境構築」から内容とスタイルを移設する
- -->
